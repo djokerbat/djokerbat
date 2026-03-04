@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey there! I'm Fatma
 
-<!--
-**djokerbat/djokerbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![profile photo](./1076917.jpg)
 
-Here are some ideas to get you started:
+I'm a student exploring the world of tech  
+Still figuring things out, learning as I go, and having fun along the way! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I’m learning
+- Front-end web development
+- AI
+- project management basics
+- problem solving 
+
+## 💡 Fun things about me
+- I love experimenting with new tech 🌟
+- Always curious, always learning
+
+
+
+*"I’m not there yet, but I’m on my way!"* 🚀
+
