@@ -2,7 +2,7 @@
 
 ![profile photo](./1076917.jpg)
 
-I'm a student exploring the world of tech  
+I'm a CS student exploring the world of tech  
 Still figuring things out, learning as I go, and having fun along the way! ✨
 
 ---
