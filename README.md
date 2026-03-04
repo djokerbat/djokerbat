@@ -12,6 +12,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ## 🌱 What I’m learning
 - Front-end web development
+- UI/UX
 - AI
 - project management basics
 - problem solving 
