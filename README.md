@@ -23,37 +23,37 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java" width="300" />
 </p>
 
 ### Web 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css" width="300" />
 </p>
 
 ### AI & Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy" width="300"/>
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=github,mysql,vscode,googlecolab,jupyter,figma,canva" />
+<img src="https://skillicons.dev/icons?i=github,mysql,vscode,googlecolab,jupyter,figma,canva" width="300"/>
 </p>
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="250"/>
 </p>
 
 "Sometimes you gotta run before you can walk." 
