@@ -24,14 +24,14 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ## 💻 Tech Stack
 
-###🧠 Programming Languages
+### 🧠 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java"height="30"/>
 </p>
 
 ---
 
-###🌐 Web
+### 🌐 Web
 <p>
 <img src="https://skillicons.dev/icons?i=html" height="30"/>
 <img src="https://skillicons.dev/icons?i=css" height="30"/>
@@ -39,7 +39,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ---
 
-###🤖 AI & Data Science
+### 🤖 AI & Data Science
 <p>
 <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas" alt="Pandas Badge">
 <img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy" alt="NumPy Badge">
@@ -47,7 +47,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ---
 
-###🛠 Tools & Platforms
+### 🛠 Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=vscode" height="30" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
