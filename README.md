@@ -67,10 +67,6 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 </p>  
 <br><br>
 
-<p align="center">
-  <img src="dist/github-snake-dark.svg" alt="GitHub Snake" />
-</p>
-
 ---
 
 
