@@ -1,0 +1,22 @@
+name: github-readme-snake
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # لتحديث الـ Snake كل 5 دقائق
+  workflow_dispatch: # لتشغيله يدويًا
+  push:
+    branches:
+      - main # أو الفرع الأساسي عندك
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          color: blue # تقدر تغيّر لون التعبان هنا
