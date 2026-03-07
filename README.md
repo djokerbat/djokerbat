@@ -23,37 +23,40 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java" width="300" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"height="30"/>
 </p>
 
-### Web 
+### Web
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" width="300" />
+<img src="https://skillicons.dev/icons?i=html" height="30"/>
+<img src="https://skillicons.dev/icons?i=css" height="30"/>
 </p>
 
 ### AI & Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" width="300"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas" alt="Pandas Badge">
+<img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy" alt="NumPy Badge">
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=github,mysql,vscode,googlecolab,jupyter,figma,canva" width="300"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="30" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white"><br>
+<img src="https://skillicons.dev/icons?i=figma" height="30" />
+<img src="https://img.shields.io/badge/Figma-A100FF?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 </p>
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"width="250"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="250"/>
-</p>
 
 "Sometimes you gotta run before you can walk." 
