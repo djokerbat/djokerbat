@@ -1,0 +1,24 @@
+name: github-readme-snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # كل يوم منتصف الليل
+  workflow_dispatch:
+  push:
+    branches:
+      - main  # أو الفرع اللي فيه README
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Dark Mode
+        uses: Platane/snk@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: djokerbat   # ← حطي اسم المستخدم بتاعك
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
