@@ -19,4 +19,5 @@ jobs:
         uses: Platane/snk@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          color: blue # تقدر تغيّر لون التعبان هنا
+          github_user: djokerbat  # ← هنا حط اسم المستخدم بتاعك بالظبط
+          color: blue # تقدر تغيّر لون التعبان
