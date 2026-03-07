@@ -55,8 +55,8 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
+</p>  
+<br><br>
 
 
 "Sometimes you gotta run before you can walk." 
