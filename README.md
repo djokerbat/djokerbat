@@ -1,4 +1,4 @@
-> # 👋 Hey there! I'm Fatma
+ # 👋 Hey there! I'm Fatma
 
 ![profile photo](./1076917.jpg)
 
