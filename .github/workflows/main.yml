@@ -2,11 +2,11 @@ name: github-readme-snake
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # لتحديث الـ Snake كل 5 دقائق
-  workflow_dispatch: # لتشغيله يدويًا
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
   push:
     branches:
-      - main # أو الفرع الأساسي عندك
+      - main
 
 jobs:
   build:
@@ -19,5 +19,6 @@ jobs:
         uses: Platane/snk@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: djokerbat # ← هنا حط اسم المستخدم بتاعك بالظبط
-          color: blue # تقدر تغيّر لون التعبان
+          github_user_name: djokerbat   # الاسم الصحيح
+          # لتغيير اللون، ممكن تضيف في args:
+          args: --color blue
