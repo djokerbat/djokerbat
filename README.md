@@ -1,6 +1,8 @@
-# 👋 Hey there! I'm Fatma
+> # 👋 Hey there! I'm Fatma
 
 ![profile photo](./1076917.jpg)
+
+## 👨‍💻 About Me
 
 I'm a CS student exploring the world of tech  
 Still figuring things out, learning as I go, and having fun along the way! ✨  
@@ -18,27 +20,34 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 - project management basics
 - problem solving 
 
+---
 
 ## 💻 Tech Stack
 
-### Programming Languages
+###🧠 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java"height="30"/>
 </p>
 
-### Web
+---
+
+###🌐 Web
 <p>
 <img src="https://skillicons.dev/icons?i=html" height="30"/>
 <img src="https://skillicons.dev/icons?i=css" height="30"/>
 </p>
 
-### AI & Data Science
+---
+
+###🤖 AI & Data Science
 <p>
 <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas" alt="Pandas Badge">
 <img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy" alt="NumPy Badge">
 </p>
 
-### Tools & Platforms
+---
+
+###🛠 Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=vscode" height="30" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -58,5 +67,14 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 </p>  
 <br><br>
 
+<p align="center">
+  <img src="https://github.com/djokerbat/github-readme-snake.svg" alt="snake animation" />
+</p>
 
-"Sometimes you gotta run before you can walk." 
+---
+
+
+✨"Sometimes you gotta run before you can walk."✨
+
+
+
