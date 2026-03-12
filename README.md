@@ -44,6 +44,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 <p>
 <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas" alt="Pandas Badge">
 <img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy" alt="NumPy Badge">
+<img src="https://img.shields.io/badge/Anaconda-white?style=for-the-badge&logo=anaconda&logoColor=%2344A833">
 </p>
 
 ---
