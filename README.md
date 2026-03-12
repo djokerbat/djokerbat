@@ -5,8 +5,8 @@
 ## 👨‍💻 About Me
 
 I'm a CS student exploring the world of tech  
-Still figuring things out, learning as I go, and having fun along the way! ✨  
-🌐 Interested in Web Development & AI
+Still figuring things out, learning as I go, and having fun along the way! ✨    
+🌐 Interested in Web Development & AI  
 🎨 I practice Design as a hobby .....and a sort of a creative escape  
 
 Just here to store my projects and tasks because my laptop doesn’t have enough space… 
