@@ -66,16 +66,12 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark"/><br><br>
- <img src="https://img.shields.io/github/commit-activity/m/djokerbat/djokerbat?style=for-the-badge&color=4c1" alt="Commit Activity"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=djokerbat&theme=react-dark" alt="Activity Graph" width="450"/>
 </p>  
 <br><br>
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark" alt="Streak Stats" width="400"/>
-  <img src="https://img.shields.io/github/commit-activity/m/djokerbat/djokerbat?style=for-the-badge&color=4c1" alt="Commit Activity" height="60"/>
-</p>
----
+
 
 
 ✨"Sometimes you gotta run before you can walk."✨
