@@ -65,11 +65,16 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark"/><br><br>
+ <img src="https://img.shields.io/github/commit-activity/m/djokerbat/djokerbat?style=for-the-badge&color=4c1" alt="Commit Activity"/>
 </p>  
 <br><br>
 
-![Total Updates](https://img.shields.io/github/commit-activity/t/djokerbat/djokerbat)
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark" alt="Streak Stats" width="400"/>
+  <img src="https://img.shields.io/github/commit-activity/m/djokerbat/djokerbat?style=for-the-badge&color=4c1" alt="Commit Activity" height="60"/>
+</p>
 ---
 
 
