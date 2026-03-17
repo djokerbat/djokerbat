@@ -66,7 +66,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark"/><br><br>
- <img src="https://activity-graph.herokuapp.com/graph?username=djokerbat&theme=react-dark" alt="Activity Graph" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=djokerbat&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="450"/>
 </p>  
 <br><br>
 
