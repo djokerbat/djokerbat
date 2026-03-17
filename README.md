@@ -68,8 +68,8 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark"/>
 </p>  
 <br><br>
-**Total Updates:** ![](https://img.shields.io/github/commit-activity/t/djokerbat/djokerbat)
 
+![Total Updates](https://img.shields.io/github/commit-activity/t/djokerbat/djokerbat)
 ---
 
 
