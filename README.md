@@ -72,7 +72,6 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 ---
 
 
-✨"Sometimes you gotta run before you can walk."✨
+✨"Sometimes you gotta run before you can walk."✨    
 
-
-
+![README Creation Date](gif-maker.gif)
