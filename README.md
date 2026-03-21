@@ -61,6 +61,8 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 </p>
 
+---
+
 
 ## 📊 GitHub Stats
 
