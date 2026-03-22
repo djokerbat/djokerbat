@@ -31,7 +31,7 @@ jobs:
       - name: Push generated SVG
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          target_branch: main    # ممكن تغيّريه لو عايزة output branch
+          target_branch: output   # ممكن تغيّريه لو عايزة output branch
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
