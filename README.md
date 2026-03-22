@@ -71,7 +71,9 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 <img src="https://github-readme-stats.vercel.app/api?username=djokerbat&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" width="600" />
 </p>  
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djokerbat&layout=donut)](https://github.com/djokerbat/github-readme-stats)  
+<a href="https://github.com/djokerbat/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djokerbat&layout=pie" alt="Top Languages Pie Chart" />
+</a>
 <br><br>
 ---
 
