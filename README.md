@@ -1,4 +1,4 @@
-mo # 👋 Hey there! I'm Fatma
+# 👋 Hey there! I'm Fatma
 
 ![profile photo](./1076917.jpg)
 
@@ -71,7 +71,8 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 <img src="https://github-readme-stats.vercel.app/api?username=djokerbat&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" width="600" />
 </p>  
 <br><br>
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+<br><br>
 ---
 
 
