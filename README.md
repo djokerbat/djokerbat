@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a CS student at the Faculty of Computers and Information Technology, exploring the world of tech. 
+I'm a CS student at the Faculty of Computers and Information Technology, exploring the world of tech.   
 Still figuring things out, learning as I go, and having fun along the way! ✨    
 🌐 Interested in Web Development & AI  
 🎨 I practice Design as a hobby .....and a sort of a creative escape  
