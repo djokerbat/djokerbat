@@ -55,7 +55,9 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white"><br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black">
+<br>
 <img src="https://skillicons.dev/icons?i=figma" height="30" />
 <img src="https://img.shields.io/badge/Figma-A100FF?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
