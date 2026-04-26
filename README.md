@@ -71,10 +71,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark" width="600"/><br><br>
 </p>  
-<br><br>  
 
 ---
-
-
 
 ✨"Sometimes you gotta run before you can walk."✨  
