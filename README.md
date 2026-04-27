@@ -69,8 +69,9 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark" width="600"/><br><br>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark" width="600"/>
 </p>  
+<br>
 
 ---
 
