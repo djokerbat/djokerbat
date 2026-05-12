@@ -13,11 +13,13 @@ Just here to store my projects and tasks because my laptop doesn’t have enough
 oh…! I mean..... to improve myself, learn git and GitHub, track my progress and build a little portfolio while I’m still learning     
 
 ---
+
 <p align="center">
 
-![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20DON%27T%20CLICK%20HERE-%23F01414?style=for-the-badge)
+[![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20DON%27T%20CLICK%20HERE-%23F01414?style=for-the-badge)](https://djokerbat.github.io/Practice/Bulb/index.html)
 
 </p>
+
 ---
 
 ## 🌱 What I’m learning
