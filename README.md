@@ -14,7 +14,9 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ---
 <p align="center">
-![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Don't%20click%20here-%23F01414?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20DON%27T%20CLICK%20HERE-%23F01414?style=for-the-badge)
+
 </p>
 ---
 
