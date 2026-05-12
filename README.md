@@ -13,6 +13,10 @@ Just here to store my projects and tasks because my laptop doesn’t have enough
 oh…! I mean..... to improve myself, learn git and GitHub, track my progress and build a little portfolio while I’m still learning     
 
 ---
+<br>
+&npsb;&npsb;&npsb;&npsb;&npsb;&npsb;&npsb;&npsb;&npsb;![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Don't%20click%20here-%23F01414?style=for-the-badge)
+<br>
+---
 
 ## 🌱 What I’m learning
 - Front-end web development
