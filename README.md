@@ -14,7 +14,8 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ---
 <br>
-&npsb;&npsb;&npsb;&npsb;&npsb;&npsb;&npsb;&npsb;&npsb;![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Don't%20click%20here-%23F01414?style=for-the-badge)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20Don't%20click%20here-%23F01414?style=for-the-badge)
 <br>
 ---
 
