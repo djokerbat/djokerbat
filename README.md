@@ -1,9 +1,11 @@
 # 👋 Hey there! I'm Fatma
 
 ![profile photo](./1076917.jpg)
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNtMm9iNGUxeTkwMDc1cjhuYTRoaTB2dmY0ajEwbnBiNm4ybm41eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wgSlUC7fhlO9wwa03n/giphy.gif" width="100%">
 </p>
+
 ## 👨‍💻 About Me
 
 I'm a CS student at the Faculty of Computers and Information Technology, exploring the world of tech.   
