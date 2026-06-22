@@ -79,10 +79,10 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+<span align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark&v=1" width="300"/><br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djokerbat&layout=compact&theme=tokyonight" width="300"/>
-</div>  
+</span>  
 <br>
 
 ---
