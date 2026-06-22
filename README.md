@@ -77,7 +77,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark&v=1" width="600"/><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djokerbat&layout=compact&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djokerbat&layout=compact&theme=tokyonight" width="600"/>
 </div>  
 <br>
 
