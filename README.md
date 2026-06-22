@@ -2,7 +2,7 @@
 
 ![profile photo](./1076917.jpg)
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFhOHRkM3hwaTA0bThiNzNvaXp6cWQ4MnQ0MjA0dDd0dGwwZG1ncSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QnVI2bPoZ0tag/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNtMm9iNGUxeTkwMDc1cjhuYTRoaTB2dmY0ajEwbnBiNm4ybm41eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wgSlUC7fhlO9wwa03n/giphy.gif" width="100%">
 </p>
 ## 👨‍💻 About Me
 
