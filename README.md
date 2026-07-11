@@ -1,7 +1,5 @@
 # 👋 Hey there! I'm Fatma
 
-![profile photo](./1076917.jpg)
-
 <p align="center">
   <img src="https://i.giphy.com/media/wgSlUC7fhlO9wwa03n/giphy.gif" width="100%">
 </p>
