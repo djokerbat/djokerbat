@@ -30,42 +30,21 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ## 💻 Tech Stack
 
-### 🧠 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java"height="30"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,vscode,figma" height="30"/>
 
----
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas" alt="Pandas Badge">
+  <img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy" alt="NumPy Badge">
+  <img src="https://img.shields.io/badge/Anaconda-white?style=for-the-badge&logo=anaconda&logoColor=%2344A833">
 
-### 🌐 Web
-<p>
-<img src="https://skillicons.dev/icons?i=html" height="30"/>
-<img src="https://skillicons.dev/icons?i=css" height="30"/>
-</p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black">
 
----
-
-### 🤖 AI & Data Science
-<p>
-<img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas" alt="Pandas Badge">
-<img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy" alt="NumPy Badge">
-<img src="https://img.shields.io/badge/Anaconda-white?style=for-the-badge&logo=anaconda&logoColor=%2344A833">
-</p>
-
----
-
-### 🛠 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=vscode" height="30" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black">
-<br>
-<img src="https://skillicons.dev/icons?i=figma" height="30" />
-<img src="https://img.shields.io/badge/Figma-A100FF?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-A100FF?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 </p>
 
 ---
