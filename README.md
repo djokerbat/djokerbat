@@ -31,7 +31,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,vscode,figma" height="30"/>   
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,vscode,figma" height="30"/><br>
 
   <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas" alt="Pandas Badge">
   <img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy" alt="NumPy Badge">
