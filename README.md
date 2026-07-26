@@ -26,7 +26,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 - project management basics
 - problem solving 
 
----
+
 
 ## 💻 Tech Stack
 
@@ -47,7 +47,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
 </p>
 
----
+
 
 
 ## 📊 GitHub Stats
@@ -58,6 +58,6 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 </p>  
 <br>
 
----
+
 
 ✨"Sometimes you gotta run before you can walk."✨  
