@@ -51,10 +51,16 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 
 ## 📊 GitHub Stats
 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark&v=1" width="300"/><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djokerbat&layout=compact&theme=tokyonight" width="300"/>
-</p>  
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark&v=1" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=djokerbat&layout=compact&theme=tokyonight" width="300"/>
+    </td>
+  </tr>
+</table> 
 <br>
 
 
