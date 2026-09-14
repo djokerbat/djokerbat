@@ -52,7 +52,7 @@ oh…! I mean..... to improve myself, learn git and GitHub, track my progress an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark&v=1" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djokerbat&theme=dark&v=1" height="180"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=djokerbat&layout=compact&theme=tokyonight" height="180"/>
 </div>
 <br>
